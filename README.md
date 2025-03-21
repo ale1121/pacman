@@ -2,6 +2,8 @@
 
 A classic game of Pacman written in Python using Pygame
 
+![Screenshot 2025-03-21 185140](https://github.com/user-attachments/assets/4fa408dc-ab0c-4dc9-aa74-219f3534e0c9)
+
 ## Features
 
  - Cusotm pixel art and animations
