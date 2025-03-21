@@ -6,8 +6,7 @@ A classic game of Pacman written in Python using Pygame
 
 ## Features
 
- - Cusotm pixel art and animations
-
+- Cusotm pixel art and animations
 - Distinct ghost behaviors
 
 ## Controls
