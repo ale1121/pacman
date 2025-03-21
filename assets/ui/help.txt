@@ -1,0 +1,1 @@
+Use WASD or arrow keys to move. Press SPACE to pause.
