@@ -33,7 +33,7 @@ Use PowerShell scripts:
     .\windows\run.ps1
     .\windows\clean.ps1
 
-Alternatively, run the commands in `build.ps1` and `run.ps1`, then manually remove the `env` and `srcc/__pycache__` folders. 
+Alternatively, run the commands in `build.ps1` and `run.ps1`, then manually remove the `env` and `src/__pycache__` folders. 
 
 ## Ghost Behavior
 
